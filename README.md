@@ -16,7 +16,7 @@ packetize an audio MP3 file into UDP packets;
 transmit the packets to the host:port;
 
 ## 🚩 Analysis
- ![MP3 Quality Graph](https://ibb.co/VSJdgQ9)
+![Image description] (https://i.ibb.co/vPVb3Qq/Screen-Shot-2020-03-10-at-1-29-04-AM.png)
  
 ## 🚩 Tech
 N/A

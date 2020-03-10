@@ -3,6 +3,7 @@
 
 ## 🚩 Table of Contents  
 * [Description](#-Description) 
+* [Analysis](#-Analysis) 
 * [Tech](#-Tech)
 * [Credits](#-Credits)
 * [License](#-License)
@@ -13,8 +14,10 @@ This is a UDP packet radio transmitter in C that could
 packetize an audio MP3 file into UDP packets;
  
 transmit the packets to the host:port;
- 
 
+## 🚩 Analysis
+ ![MP3 Quality Graph](https://ibb.co/VSJdgQ9)
+ 
 ## 🚩 Tech
 N/A
 

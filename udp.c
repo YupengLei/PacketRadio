@@ -1,7 +1,10 @@
 /*
-   CS656-002 Group W3
-   Vincent (vc342), Owen (oeh3), Yupeng (yl2236), Yanxinwen (yl2235)
-   Pranav (pg449), Indira (ian8)
+   Copyright @ Yupeng Lei, Vincent Chen
+   
+   Licensed under the MIT license
+   
+   This is a udp packet radio transmitter
+   
 */
 #include <stdio.h>
 #include <stdlib.h>
